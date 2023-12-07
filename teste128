@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": "https://api.github.com/repos/Daniel17170/teste/contents/REDAME.md?ref=main",
+    "git": "https://api.github.com/repos/Daniel17170/teste/git/blobs/67a92a4d05a4c3a73c51986727531c3b3f72f864",
+    "html": "https://github.com/Daniel17170/teste/blob/main/REDAME.md"
+  },
+  "download_url": "https://raw.githubusercontent.com/Daniel17170/teste/main/REDAME.md",
+  "git_url": "https://api.github.com/repos/Daniel17170/teste/git/blobs/67a92a4d05a4c3a73c51986727531c3b3f72f864",
+  "html_url": "https://github.com/Daniel17170/teste/blob/main/REDAME.md",
+  "name": "REDAME.md",
+  "path": "REDAME.md",
+  "sha": "67a92a4d05a4c3a73c51986727531c3b3f72f864",
+  "size": 761,
+  "type": "file",
+  "url": "https://api.github.com/repos/Daniel17170/teste/contents/REDAME.md?ref=main"
+}
