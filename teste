@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "connections": {},
+  "createdAt": "2023-12-07T17:06:52.288Z",
+  "id": "GWkTx4P9IILsanBK",
+  "meta": null,
+  "name": "API status de pedido",
+  "nodes": [],
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "createdAt": "2023-12-07T17:06:50.812Z",
+      "updatedAt": "2023-12-07T17:06:50.812Z",
+      "id": "brA1UUHMY9Mtt8ii",
+      "name": "Mulher Unica"
+    }
+  ],
+  "triggerCount": 0,
+  "updatedAt": "2023-12-07T17:07:00.000Z",
+  "versionId": "df0642e8-f6ca-414c-9ff5-459895fc668b"
+}
